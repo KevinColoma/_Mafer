@@ -30,5 +30,5 @@ yesBtn.addEventListener("click", () => {
  // gifResult.play();
     
   }, 3000);
-  window.location.href = "./love letter 2.html"; // Replace with your desired URL
+  window.location.href = "./letter 2.html"; // Replace with your desired URL
 });
